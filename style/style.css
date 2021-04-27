@@ -183,6 +183,9 @@ canvas {
     0 0 150px #ff00de;
   transition: 1s;
 }
+#about-button:not(hover){
+  transition: 1s;
+} 
 #qaban-bt {
   border: none;
 }
