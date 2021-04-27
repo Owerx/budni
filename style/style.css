@@ -121,6 +121,9 @@ canvas {
   padding: 25px 50px;
   transition: 0.8s;
 }
+#welcome-button:not(hover){
+  transition: 1s;
+}
 .about {
   background-color: #393737;
 }
